@@ -1,0 +1,41 @@
+body {
+    font: 12pt Arial;
+    background-image: url(fundo.jpg);
+    text-align: center;
+    margin-top: 15%;
+}
+
+.Info {
+    background-color: rgb(223, 227, 230);
+    width: 420px;
+    height: 270px;
+    margin-left: 39%;
+    border-radius: 12%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    font-family: 'Playfair', cursive;
+    font-weight: normal;
+    text-align: center;
+}
+
+mark {
+    background-color: lightseagreen;
+}
+
+p {
+    font-family: 'Playfair', cursive;
+    text-align: center;
+}
+
+button {
+    font-size: 12pt;
+    padding: 10px 20px;
+    border-radius: 17%;
+    border: none;
+    background-color: rgba(0, 0, 0, 0.322);
+}
